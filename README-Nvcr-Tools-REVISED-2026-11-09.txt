@@ -8,6 +8,10 @@ What is in this repo
 
 Current files:
 
+trump_administration_twitter_handles_email_addresses_revised_9nov2026.xlsx
+
+This is a spreadsheet listing the email addresses and Twitter (X) handles of top Trump Administration officials, to facilitate communication with those persons. The spreadsheet also contains columns on the official's education, title, and—when appropriate—notes with regard to their status/performance, etc. 
+
 US_Statistical_Agencies.xlsx - A reference list of principal federal statistical agencies and major federal statistical programs in the United States that report statistical information to the public.
 
 Sheet 1: US Statistical Agencies - 55 agencies/programs with agency name, verified URL, description / mandate, standardized lag time between reporting dates, media contact name, agency telephone number, agency email for media contacts, and notes.
