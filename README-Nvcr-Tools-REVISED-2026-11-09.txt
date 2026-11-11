@@ -1,7 +1,7 @@
 nvcr-tools
 ==========
 
-The nvcr-tools repo contains files for use by nonviolent civil resistance workers and organizations. These are tools and other resources created for a variety of purposes: to help establish or protect democratic governments, resist oppressive forces, verify or fact check statements or imagery, and communicate nonviolently with persons within those movements, and with opposing forces and the public at large (by which I mean the global public).
+The nvcr-tools repo contains files for use by nonviolent civil resistance workers and organizations, OSINT investigators and any person or organization that needs research tools and educational resources for the purpose of minimizing threats to social-justice movements, threats to democracy as a whole, or needs investigative tools focused on fact-checking, account verification, account analyses, cybersecurity protection of oneself or one's organization, and so on. Person who may benefit from using these tools and other resources found herein include: journalists, fact checkers, criminal investigators, social-justice workers, environmental-justice workers, civil-rights workers, human-rights workers, persons resisting hate crimes, Gender-Based Crimes, Fascism, Totalitarianism, Oligarchy, disinformation/misinformation/influence operations, war, armed conflict, civilian harm, killer robots ... and a list of literally hundreds of other threats to human and planetary welfare. 
 
 What is in this repo
 --------------------
