@@ -10,7 +10,7 @@ Current files:
 
 trump_administration_twitter_handles_email_addresses_revised_9nov2026.xlsx
 
-This is a spreadsheet listing the email addresses and Twitter (X) handles of top Trump Administration officials, to facilitate communication with those persons. The spreadsheet also contains columns on the official's education, title, and—when appropriate—notes with regard to their status/performance, etc. 
+This is a spreadsheet listing the email addresses and Twitter (X) handles of top Trump Administration officials, to facilitate communication with those persons. The spreadsheet also contains columns on the official's education, title, and—when appropriate—notes with regard to their status/performance, etc. trump_administration_twitter_handles_email_addresses_revised_9nov2026.png is a screenshot of the entire list of persons and contact info (suitable for printing in landscape mode, with 'shrink to fit' (or whatever similar function your printer allows) selected, if you're going to print on 8.5 x 11 inch paper: 'letter sized'). 
 
 US_Statistical_Agencies.xlsx - A reference list of principal federal statistical agencies and major federal statistical programs in the United States that report statistical information to the public.
 
@@ -18,11 +18,15 @@ Sheet 1: US Statistical Agencies - 55 agencies/programs with agency name, verifi
 
 Sheet 2: Read Me - Scope, column definitions, and limitations for the file.
 
-This file is intended to help users find authoritative U.S. statistics quickly and understand how long after a reference period an agency typically publishes its data.
+This file is intended to help users find authoritative U.S. statistics quickly and understand how long after a reference period an agency typically publishes its data. Note that statistical data or government analyses of such data is not necessarily accurate or timely; such data is reported here 'as it stands,' but data can (and sometimes is) be manipulated for political purposes, or altered/delayed/underreported by government officials to obscure facts or trends whose documentation officials find 'troubling' or 'damaging' to an agency, political party or political campaign. In this sense, I suggest you think of data not as 'measured facts,' but as 'measured information.' Whether the information is 'true,' or accurate, or is absent of any form of manipulation ... has to be considered for each dataset, regardless of the data's provenance. 
 
 Planned files:
 
 Additional tools and resources for nonviolent civil resistance work will be added over time, including tools for verification, fact-checking, secure communication, and documentation.
+
+Methodology
+
+Note that nearly all scripts in this repo were created with the assistance of an AI: Github Copilot or MetaAI, for the most part. AIs are also used in this repo to create lists, analyze websites and social media accounts, and to perform other coding and/or rote OSINT functions. AIs are NOT used to create extended commentary, or generate text generally associated with 'human only' content. 
 
 How to use this repo
 --------------------
